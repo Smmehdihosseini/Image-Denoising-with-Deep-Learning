@@ -8,7 +8,7 @@ Furthermore, Thanks to Andrew NG and [deeplearning.ai](https://www.deeplearning.
 
 Our models are separated into various kinds as follows:
 
-    1. CNN based or Fully connected based autoencoder denoiser
+    1. CNN-based or Fully connected-based autoencoder denoiser
     2. Using Adam or Gradient Descent Optimizer
     3. Using 3in3 or 5in5 filters (kernels) in the CNN based model
     4. Using symmetric or non-symmetric connection
